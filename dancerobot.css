@@ -183,7 +183,7 @@ body {
     border-bottom-left-radius:50px;
     border-bottom-right-radius:20px;
     transform: rotateZ(90deg);
-    animation: side 1s linear infinite;
+    
  
     
 }
